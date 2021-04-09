@@ -41,10 +41,10 @@ def pdfReceiptGenerate(bid, cin, cout, days, adult, kid, rtype, rno, name, pno, 
                                          spaceAfter=4)
 
                 title = Paragraph("Hotel Vishwa Chakra", Hstyle)
-                addressline1 = Paragraph("Plot No 30, Nehru Palace,", Hstyle2)
-                addressline2 = Paragraph("Samarthnagar Aurangabad,", Hstyle2)
-                addressline3 = Paragraph(" Maharashtra - 431001", Hstyle2)
-                phno = Paragraph("Ph: (0240) 2353788 | 9923864344 | 9604407070", Hstyle3)
+                addressline1 = Paragraph("addressline 1,", Hstyle2)
+                addressline2 = Paragraph("addressline 2,", Hstyle2)
+                addressline3 = Paragraph(" addressline 3", Hstyle2)
+                phno = Paragraph("Ph: number1 | number2", Hstyle3)
                 # <b>ReportLab Left
                 #      <font color=red>Logo</font></b>
 
