@@ -1,6 +1,6 @@
 # hotel-desktop-app  
 ## Booking Page
-![Booking Page](screenshots/BookingPage.png)
+![Booking Page](screenshots/Bookingpage.png)
 ## Rooms Page
 #### Manages Hotel Room database and Checks room availability
 ![Rooms Page](screenshots/RoomsPage.png)
